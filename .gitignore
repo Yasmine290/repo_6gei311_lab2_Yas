@@ -1,0 +1,16 @@
+# Ignorer les dossiers de l'environnement virtuel
+Include/
+Scripts/
+Lib/
+
+# Ignorer les fichiers de configuration de l'éditeur
+.vscode/
+.idea/
+.pyvenv/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+
+
+
