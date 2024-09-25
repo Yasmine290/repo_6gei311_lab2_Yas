@@ -1,2 +1,6 @@
 test 
+<<<<<<< HEAD
 deuxieme test 
+=======
+test3 test 
+>>>>>>> dev_Yas
