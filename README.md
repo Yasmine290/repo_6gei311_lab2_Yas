@@ -21,8 +21,7 @@ Réponses aux questions:
 6-Lorsque nous arrêtons l'application Python, la page web devient inaccessible via l'adresse http://IP_DE_LA_MACHINE:3001/
 
 
-    16-Lorsque nous rafraichissons la page plusieurs fois, nous remarquons que les réponses alternent entre les deux applications,
- ce qui nous montre que Nginx distribue les requêtes entre les deux machines.
+    16-Lorsque nous rafraichissons la page plusieurs fois, nous remarquons que les réponses alternent entre les deux applications, ce qui nous montre que Nginx distribue les requêtes entre les deux machines.
 
 
 
