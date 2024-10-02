@@ -18,18 +18,18 @@ requêtes entre deux instances de l'application, testant ainsi la tolérance aux
 Réponses aux questions:
 
 
-6) Lorsque nous arrêtons l'application Python, la page web devient inaccessible via l'adresse http://IP_DE_LA_MACHINE:3001/
+6-Lorsque nous arrêtons l'application Python, la page web devient inaccessible via l'adresse http://IP_DE_LA_MACHINE:3001/
 
 
-16) Lorsque nous rafraichissons la page plusieurs fois, nous remarquons que les réponses alternent entre les deux applications,
+    16-Lorsque nous rafraichissons la page plusieurs fois, nous remarquons que les réponses alternent entre les deux applications,
  ce qui nous montre que Nginx distribue les requêtes entre les deux machines.
 
 
 
-17) a. Quand on arrête nginx, l'application est toujours accessible via l'adresse http://IP_DE_LA_MACHINE:3001/
+    17-a. Quand on arrête nginx, l'application est toujours accessible via l'adresse http://IP_DE_LA_MACHINE:3001/
 
 
- b. Quand on arrête nginx, l'application devient inaccessible via l'adresse http://IP_DE_LA_MACHINE:8181/
+  b. Quand on arrête nginx, l'application devient inaccessible via l'adresse http://IP_DE_LA_MACHINE:8181/
 
 
 Lien pour la vidéo de démonstration: https://uqac.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=81c06e66-3934-4b77-bba3-b1fd0002930c 
